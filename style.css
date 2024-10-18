@@ -1,0 +1,36 @@
+.container-fluid{
+    border: 5pix solid blue;
+}
+
+.row{
+    border-bottom: 1px solid grey;
+    
+    background-color: burlywood;
+}
+.col-4{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: chartreuse;
+
+    
+}
+.col-1{
+    display: flex;
+    border: 2px solid grey;
+    justify-content: center;
+    align-items: center;
+
+}
+.navbar{
+    color: black;
+    text-decoration: none;
+    font-size:small;
+
+}
+.navbars{
+    color: black;
+    border:0;
+    font-size: small;
+
+}

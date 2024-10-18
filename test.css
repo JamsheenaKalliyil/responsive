@@ -1,0 +1,17 @@
+
+.nav-link1,.nav-item1{
+    
+    color: black;
+    list-style-type: none;
+    text-decoration: none;
+    padding-top: 10px;
+}
+.nav-item{
+    padding-left:7px;
+    padding-right: 7px;
+}
+
+.img{
+    width:100px;
+    height: auto;
+}
